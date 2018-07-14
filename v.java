@@ -11,3 +11,5 @@ System.out.println("vowels");
 else{
 System.out.println("consonants");
 }
+}
+}
