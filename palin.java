@@ -16,11 +16,11 @@ n=n/10;
 }
 if(b==rn)
 {
-System.out.println("palindrome");
+System.out.println("yes);
 }
 else
 {
-System.out.println("not palindrome");
+System.out.println("no");
 }
 }
 }
